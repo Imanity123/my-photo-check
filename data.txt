@@ -1,1 +1,1 @@
-
+https://nsp-vassistant-web-drcn-test.obs.cn-north-4.myhuaweicloud.cn/ea02a863-5033-4e33-9123-57bed447ca50.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=HPUAWF55HPAFCM6WI5PU%2F20260319%2Fcn-north-4%2Fs3%2Faws4_request&X-Amz-Date=20260319T135605Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2cdff5a3ad1f67df71f96ab39ab988dc74e57ddaf7d0a48c006a3bfae01b5b74 
